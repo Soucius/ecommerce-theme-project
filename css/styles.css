@@ -1,0 +1,10 @@
+.top-bar {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.btn-light {
+    background-color: #FFF;
+    border-color: #DEE2E6;
+    color: #212529;
+}
